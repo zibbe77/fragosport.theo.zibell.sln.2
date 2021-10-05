@@ -1,0 +1,11 @@
+vad är 1 + 1
+A --- 3 | B --- 2 | C --- 1
+Svar A, B eller C
+
+vad är 2 + 1
+A --- 3 | B --- 2 | C --- 1
+Svar A, B eller C
+
+vad är 2 + 2
+A --- 3 | B --- 2 | C --- 4
+Svar A, B eller C
