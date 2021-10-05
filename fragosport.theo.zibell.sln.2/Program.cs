@@ -15,6 +15,7 @@ int ii = 0; while (ii < 3)
     for (int i = fraga * 4; i < fraga * 4 + 3; i++)
     {
         Console.WriteLine(line[i]);
+
     }
     a1 = Console.ReadLine();
 
