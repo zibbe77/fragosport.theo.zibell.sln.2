@@ -3,6 +3,7 @@ using System.IO;
 
 string[] line = File.ReadAllLines(@"frogor.txt");
 string[] line2 = File.ReadAllLines(@"svar.txt");
+//string[] line3 = File.ReadAllLines(@"setings");
 
 int fraga = 0;
 int antalr = 0;
