@@ -53,4 +53,16 @@ public class Toolbox
 
     }
 
-} 
+    public static void nyfraga()
+    {
+        string igen = "";
+        Console.WriteLine("vill du göra en fråga (Ja eller Nej)");
+        igen = Console.ReadLine();
+        if (igen == "Ja" | igen == "ja")
+        {
+            System.Console.WriteLine("skriv din fråga");
+            igen = Console.ReadLine();
+
+        }
+    }
+}
