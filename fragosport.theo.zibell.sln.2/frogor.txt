@@ -9,3 +9,7 @@ Svar A, B eller C
 vad är 2 + 2
 A --- 3 | B --- 2 | C --- 4
 Svar A, B eller C
+
+3 + 2
+A --- 5 | B --- 6 | C --- 4
+Svar A, B eller C
