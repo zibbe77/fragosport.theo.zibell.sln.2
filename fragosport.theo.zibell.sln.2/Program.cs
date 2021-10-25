@@ -62,7 +62,7 @@ static void nyfraga()
         igen2 = Console.ReadLine();
 
         File.AppendAllText("frogor.txt", $"\nA --- {igen} | B --- {igen1} | C --- {igen2}");
-        File.AppendAllText("frogor.txt", "\nSvar A, B eller C");
+        File.AppendAllText("frogor.txt", "\nSvar a, b eller c");
 
         System.Console.WriteLine("skriv vad svars ska vara (a, b eller c) små bokstäver");
         igen = Console.ReadLine();
